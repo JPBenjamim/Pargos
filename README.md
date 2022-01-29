@@ -71,14 +71,14 @@ $ npm start
 ### :boy: **Autor**
 
 <div align="center">
-<a href="https://github.com/JonasBenjamim">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/17955358?s=460&u=ba042b3e183a3e36de57089bb11196ef3985de26&v=4" width="100px;" alt="Foto de Perfil JonasBenjamim"/>
+<a href="https://github.com/User-Benjamim>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81539359?v=4" width="100px;" alt="Foto de Perfil JonasBenjamim"/>
  <br />
  <sub><b>JonasBenjamim</b></sub></a>
 
 Feito por JonasBenjamim 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jeffesson_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-benjamim-de-palhares-8190261a0/)](https://www.linkedin.com/in/jonas-benjamim-de-palhares-8190261a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas_Benjamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-benjamim-de-palhares-8190261a0/)](https://www.linkedin.com/in/jonas-benjamim-de-palhares-8190261a0/)
 
 </div>
 
