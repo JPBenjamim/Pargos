@@ -1,12 +1,12 @@
 <h1 align="center">Pargos Club</h1>
 
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/User-Benjamim/stunning-disco?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/User-Benjamim/stunning-disco?style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/User-Benjamim/Pargos?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/User-Benjamim/Pargos?style=for-the-badge">
   <a href="https://github.com/User-Benjamim">
     <img alt="Feito pelo JonasBenjamim" src="https://img.shields.io/badge/feito%20por-JonasBenjamim-%237519C1?style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/JonasBenjamim/stunning-disco?style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/User-Benjamim/Pargos?style=for-the-badge"/>
 <p>
 
 <p align="center">
