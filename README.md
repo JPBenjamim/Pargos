@@ -56,10 +56,10 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/JonasBenjamim/stunning-disco
+$ git clone https://github.com/User-Benjamim/Pargos
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd stunnig-disco
+$ cd Pargos
 
 # Instale as dependências
 $ npm install
