@@ -1,4 +1,4 @@
-h1 align="center">Pargos Club</h1>
+<h1 align="center">Pargos Club</h1>
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/JonasBenjamim/stunning-disco?style=for-the-badge">
